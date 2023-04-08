@@ -1,5 +1,5 @@
-# binja_findstrings
+# binja_cppfolders
 
 Author: **unknowntrojan**
 
-Tries to find all strings referenced by datavars that have not been recognized as strings by binja
+Sorts all C++ methods identified by ClassyPP into folders. Requires the new symbol UI.
