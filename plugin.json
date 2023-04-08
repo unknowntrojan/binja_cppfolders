@@ -1,0 +1,25 @@
+{
+	"pluginmetadataversion": 2,
+	"name": "C++ Class Sorter",
+	"type": [
+		"ui",
+		"helper"
+	],
+	"api": [
+		"python3"
+	],
+	"description": "This plugin is supposed group C++ classes identified by ClassyPP in the new symbol view.",
+	"longdescription": "",
+	"license": {
+		"name": "Unlicense",
+		"text": "do whatever"
+	},
+	"platforms": [
+		"Darwin",
+		"Linux",
+		"Windows"
+	],
+	"version": "1.3.5",
+	"author": "unknowntrojan",
+	"minimumbinaryninjaversion": 3164
+}
