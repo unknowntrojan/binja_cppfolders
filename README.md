@@ -6,4 +6,4 @@ Sorts all C++ methods identified by ClassyPP into folders by adding invisible un
 
 If you didn't read the message above, do it now. Adding invisible unicode characters you cannot type yourself may cause some issues.
 
-![The sorted view](https://i.imgur.com/ZWzuyhm.png)
+![The sorted view](https://i.imgur.com/AHfBwzg.png)
